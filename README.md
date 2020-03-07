@@ -9,4 +9,5 @@
 - [x] Push your progress to GitHub!
 
 
-<img src="https://i.imgur.com/ksZGo6g.gifv" />  
+
+<img src= "https://i.imgur.com/ksZGo6g.gifv" width="200" height="400" />  
